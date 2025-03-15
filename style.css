@@ -1,0 +1,28 @@
+body {
+    background-color: blue;
+}
+
+h4 {
+    color: red;
+    color: yellow;
+    color: aqua;
+}
+
+#saw {
+    color:red;
+}
+
+#chucky {
+    color:yellow;
+}
+
+#anabelle {
+    color:aqua;
+}
+
+
+.link {
+    color: #ddd;
+
+}
+
